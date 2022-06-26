@@ -1,4 +1,4 @@
-### 1.OBJETIVO DO TRABALHO
+### 1.OBJETIVO DO TRABALHO :grinning:
 
 Neste projeto, simulei fazer parte de uma equipe de consultoria estratégica focada em 
 Business Intelligence. Utilizando dados históricos de uma empresa atacadista, UK Merch, foi 
