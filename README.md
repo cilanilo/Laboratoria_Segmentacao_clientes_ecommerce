@@ -52,7 +52,8 @@ Análise de segmentação
 Após as análises podemos concluir que a empresa UK Merch apresenta uma boa retenção de clientes tanto para o Reino Unido, quanto para os países estrangeiros, porém é preciso investir em uma boa estratégia de marketing e pensar na qualidade do produto, talvez um lançamento de um novo produto poderia aumentar a retenção. Deve dar mais atenção aos clientes que apresentam a categoria de “Prestes a dormir” e os “Dormentes”. Vale lembrar que foi obtido um número significativo de clientes não categorizados, esses clientes podem se tornar os melhores clientes da empresa, é preciso trabalhar nesses clientes.
 
 
-
+#### DOCUMENTAÇÃO
+Para ver com mais detalhes da análise veja a documentação na pasta docs.
 
 
 
